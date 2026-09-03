@@ -1,0 +1,17 @@
+# Environment
+.env
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Vector store data written by the notebooks
+chroma/
+*.sqlite3
+
+# OS
+.DS_Store

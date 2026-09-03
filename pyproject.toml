@@ -1,7 +1,7 @@
 [project]
-name = "langgraph-projects"
+name = "agentic-rag"
 version = "0.1.0"
-description = "Add your description here"
+description = "Three agentic RAG patterns built with LangGraph: Agentic RAG, Corrective RAG, and Adaptive RAG."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
@@ -22,6 +22,10 @@ dependencies = [
     "langgraph-cli[inmem]>=0.4.31",
     "langsmith>=0.11.0",
     "pydantic>=2.13.4",
+    "python-dotenv>=1.0.1",
     "requests>=2.32.0",
     "sentence-transformers>=6.0.0",
 ]
+
+[tool.uv]
+package = false
