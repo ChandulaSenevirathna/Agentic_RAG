@@ -145,3 +145,8 @@ check fails.
   repo (`chroma/` is gitignored).
 - These notebooks scrape live documentation pages and blog posts at run time, so results
   will vary slightly as those pages change.
+
+## License
+
+This is a paid, personal-use resource — see `LICENSE.md`. In short: use it, learn from
+it, build on it, but don't resell or redistribute the notebooks themselves.
