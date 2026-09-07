@@ -15,6 +15,10 @@ answering.
 Each notebook is fully commented with markdown cells explaining what every step does and
 why — you don't need to already know LangGraph to follow along.
 
+> **This is the free demo notebook** (`1_Agentic_RAG.ipynb`). The full series — including
+> Corrective RAG, Adaptive RAG, and Human-in-the-Loop RAG — is available here:
+> [Agentic RAG — Four Working Patterns with LangGraph](https://chandula7.gumroad.com/l/Advanced_RAG_LangGraph_Patterns)
+
 ## Why four patterns instead of one?
 
 They sit on a spectrum of how much a RAG pipeline second-guesses itself — and who gets
@@ -189,3 +193,6 @@ Tavily.
 three notebooks are a paid, personal-use resource — see `LICENSE.md`. In short: use
 them, learn from them, build on them, but don't resell or redistribute the notebooks
 themselves.
+
+Get the full bundle here:
+[Agentic RAG — Four Working Patterns with LangGraph](https://chandula7.gumroad.com/l/Advanced_RAG_LangGraph_Patterns)
