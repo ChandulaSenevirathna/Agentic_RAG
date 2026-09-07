@@ -7,10 +7,10 @@ answering.
 
 | Notebook | Pattern | What makes it agentic |
 |---|---|---|
-| `1_Agentic_RAG.ipynb` **(free demo)** | Agentic RAG | An LLM agent decides *whether* to retrieve at all, and *which* of two knowledge bases to search, using tool calling. |
-| `2_Corrective_RAG.ipynb` | Corrective RAG (CRAG) | Always retrieves first, then grades what it got — and automatically falls back to a live web search if the local documents aren't good enough. |
-| `3_Adaptive_RAG.ipynb` | Adaptive RAG | Routes each question to a vectorstore or the web *before* retrieving, then grades both the documents *and* the final answer (hallucination + relevance checks) before returning it. |
-| `4_Human_in_the_Loop_RAG.ipynb` | Human-in-the-Loop RAG | Takes the same retrieve/grade/generate machinery and replaces the automatic loop-decisions with a person: the graph pauses after retrieval and after generation, shows the LLM's grades as advisory suggestions only, and waits for a human to approve, request a revision, or send it back. |
+| [`1_Agentic_RAG.ipynb`](https://chandula7.gumroad.com/l/AgenticRAGFundamentals) **(free demo)** | Agentic RAG | An LLM agent decides *whether* to retrieve at all, and *which* of two knowledge bases to search, using tool calling. |
+| [`2_Corrective_RAG.ipynb`](https://chandula7.gumroad.com/l/Advanced_RAG_LangGraph_Patterns) | Corrective RAG (CRAG) | Always retrieves first, then grades what it got — and automatically falls back to a live web search if the local documents aren't good enough. |
+| [`3_Adaptive_RAG.ipynb`](https://chandula7.gumroad.com/l/Advanced_RAG_LangGraph_Patterns) | Adaptive RAG | Routes each question to a vectorstore or the web *before* retrieving, then grades both the documents *and* the final answer (hallucination + relevance checks) before returning it. |
+| [`4_Human_in_the_Loop_RAG.ipynb`](https://chandula7.gumroad.com/l/Advanced_RAG_LangGraph_Patterns) | Human-in-the-Loop RAG | Takes the same retrieve/grade/generate machinery and replaces the automatic loop-decisions with a person: the graph pauses after retrieval and after generation, shows the LLM's grades as advisory suggestions only, and waits for a human to approve, request a revision, or send it back. |
 
 Each notebook is fully commented with markdown cells explaining what every step does and
 why — you don't need to already know LangGraph to follow along.
