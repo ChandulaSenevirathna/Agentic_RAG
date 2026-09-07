@@ -1,9 +1,27 @@
-Agentic RAG — Three Working Patterns with LangGraph
+Agentic RAG — Four Working Patterns with LangGraph
 Copyright (c) 2026. All rights reserved.
 
-## License — Personal Use
+This repository contains two license tiers, depending on the file.
 
-This purchase grants you a personal, non-exclusive, non-transferable license to:
+## Free Demo — `1_Agentic_RAG.ipynb`
+
+This notebook is provided free as a demo of the full resource. You may:
+
+- Use it for your own learning, personal projects, and internal work,
+  including commercial ones
+- Modify it for your own use
+- Share and redistribute it freely, including posting your copy publicly,
+  provided you keep this license notice attached and don't claim it as your
+  own original work
+
+This does **not** grant you the right to bundle this notebook, modified or
+unmodified, into a paid product, course, or resource of your own without
+permission — contact the seller through Gumroad for that.
+
+## Personal Use — `2_Corrective_RAG.ipynb`, `3_Adaptive_RAG.ipynb`, `4_Human_in_the_Loop_RAG.ipynb`
+
+These three notebooks are a paid resource. Your purchase grants you a
+personal, non-exclusive, non-transferable license to:
 
 - Use this code for your own learning, personal projects, and internal work
 - Modify the code for your own use
@@ -12,8 +30,8 @@ This purchase grants you a personal, non-exclusive, non-transferable license to:
 
 This purchase does **not** grant you the right to:
 
-- Resell, redistribute, or re-publish this code or notebooks, in whole or in
-  part, whether modified or unmodified, for free or for payment
+- Resell, redistribute, or re-publish this code or these notebooks, in whole
+  or in part, whether modified or unmodified, for free or for payment
 - Share your copy with others outside your own team/organization
 - Use the notebooks themselves (as opposed to code and ideas you build using
   them) as part of a product, course, or paid resource that competes with
